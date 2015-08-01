@@ -1,0 +1,4 @@
+allow_lossy - allow specifying per worker?
+resolve allow_lossy in worker_analysis
+add levels:
+	optipng 5 by default, 7 on max
